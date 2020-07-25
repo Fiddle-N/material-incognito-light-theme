@@ -3,7 +3,7 @@
 
 	"name": "Material Incognito Light Theme",
 	"description": "A theme that removes the dark Incognito Mode colour scheme from Chrome.",
-	"version": "5.0.1",
+	"version": "5.1.0",
 
 	"theme": {
 		"images": {
@@ -14,6 +14,7 @@
 			"frame_inactive": [231, 234, 237],
 			"frame_incognito": [222, 225, 230],
 			"frame_incognito_inactive": [231, 234, 237],
+			"omnibox_background": [241, 243, 244],
 			"ntp_text": [2, 1, 10]
 		},
 		"properties": {
