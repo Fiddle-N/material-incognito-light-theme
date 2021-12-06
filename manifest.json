@@ -2,8 +2,8 @@
 	"manifest_version": 2,
 
 	"name": "Material Incognito Light Theme",
-	"description": "A theme that removes the dark Incognito Mode colour scheme from Chrome.",
-	"version": "5.2.0",
+	"description": "This theme is deprecated.",
+	"version": "5.2.1",
 
 	"theme": {
 		"colors": {

@@ -1,11 +1,11 @@
 # Material Incognito Light Theme
 
-Updated for the new Chrome redesign! Please update to Chrome v69 for full compatibility with this theme.
+This theme is deprecated.
 
-Incognito mode uses a dark colour scheme to distinguish it from normal mode. This theme removes and replaces it with the light colour scheme from normal mode.
+Google killed all incognito theme customisation back in September 2021. This is a deliberate choice on their part. I suspect this is the first step in killing all theme customisation, as you can now set themes colours from within Settings anyway, so there is no real reason to keep third-party themes around. However, there is no way to change the incognito theming through themes or through Settings - it will always be dark.
 
-### Installation
-Install the theme from the Chrome Web Store [here](https://chrome.google.com/webstore/detail/material-incognito-light/necpbhkfondbpbloppmkjpdkdimldobc).
+You can temporarily reverse this change by going to chrome://flags/#incognito-brand-consistency-for-desktop and setting to Disabled. However, Chrome flags do not stick around for long, especially those related to appearances. When the flag goes, the functionality will revert back.
 
-### Github
-This theme is fully open-source under the Apache License. Check out the source code on Github at https://github.com/Fiddle-N/material-incognito-light-theme .
+These recent developments mean that Material Incognito Light Theme is officially deprecated. It will no longer be receiving any updates from now on. When the Chrome flag disappears, I will pull this theme from the Chrome Web Store shortly after, as it will serve essentially no purpose anymore.
+
+Thank you for using my theme in the meantime; I hope you enjoyed it while it lasted.
